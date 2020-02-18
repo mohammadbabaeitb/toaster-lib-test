@@ -1,0 +1,2 @@
+include ':app', ':mylibrary', ':mylibrary'
+rootProject.name='MyInstagram'
